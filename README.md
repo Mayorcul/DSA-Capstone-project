@@ -12,3 +12,5 @@ findings.
 Tools used:
 - Ms Excel for Data cleaning, sorting, transforming and Analysis
 - SQL Server (for querying and analysis)
+
+###Analysis
