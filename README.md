@@ -102,7 +102,7 @@ Question 1-11
 
 
 ## Conclusion 
-The organization can give bottom 10 customers discount or loan scale as well as marketing strategies in order to increase the KMS revenue, alsothe critical and high priority is not well process the comapny needs to improve by using Express Air for critical situation not by delivery trucks.
+The organization can give bottom 10 customers discount or loan scale as well as marketing strategies in order to increase the KMS revenue, also the critical and high priority is not well process the company needs to improve by using Express Air for critical situation not by delivery trucks.
 
 
 
