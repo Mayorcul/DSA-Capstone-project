@@ -13,7 +13,7 @@ Tools used:
 - Ms Excel for Data cleaning, sorting, transforming and Analysis
 - SQL Server (for querying and analysis)
 
-###Analysis
+ ####  Analysis
 ![KMS Question 1,2,3,4,5,6](https://github.com/user-attachments/assets/737444ba-348d-4699-af1a-b2b444832129)
 ![KMS Question 7,8,9](https://github.com/user-attachments/assets/3399c2d6-d24e-48bf-9178-f031f5c63c51)
 ![KMS Question 10,11](https://github.com/user-attachments/assets/257af1cc-b0ec-435a-9c92-ca493f97e1a9)
