@@ -8,7 +8,7 @@ This is where i documented my capstone project while learning Data Analysis tran
   # Tools Used
   # Data Cleaning and Preparation
   # Exploratory Data Analysis
-  [Data Analysis]
+  [Data Analysis](#data-analysis)
   # Conclusion
 
 ### Introduction
